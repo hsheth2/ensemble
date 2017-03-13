@@ -1,0 +1,40 @@
+{
+  "name": "ensemble",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "bootstrap": "3",
+    "inferno-scripts": "0.13.2",
+    "reconnecting-websocket": "^3.0.3",
+    "right-now": "^1.0.0",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "dependencies": {
+    "babel-plugin-inferno": "^1.9.0",
+    "deepstream.io": "^2.1.3",
+    "deepstream.io-client-js": "^2.1.2",
+    "dotenv": "^4.0.0",
+    "history": "^4.5.1",
+    "inferno": "^1.3.0-rc.9",
+    "inferno-component": "^1.3.0-rc.9",
+    "inferno-router": "^1.3.0-rc.9",
+    "kcors": "^1.3.2",
+    "koa": "^2.0.1",
+    "koa-bodyparser": "^4.1.0",
+    "koa-router": "next",
+    "lastfmapi": "^0.1.1",
+    "lodash": "^4.17.4",
+    "microtime": "^2.1.2",
+    "mp3-duration": "^1.0.10",
+    "shortid": "^2.2.6",
+    "uws": "^0.13.0",
+    "youtube-audio-stream": "^0.0.38"
+  },
+  "scripts": {
+    "start": "inferno-scripts start",
+    "server": "node server/index.js",
+    "build": "inferno-scripts build",
+    "test": "inferno-scripts test --env=jsdom",
+    "eject": "inferno-scripts eject"
+  }
+}
