@@ -4,6 +4,9 @@ This project was created at the 2017 MIT Blueprint hackathon, and won first plac
 
 Created by Harshal Sheth, Andrew Sun, Kartik Singh, and Nihar Sheth.
 
+![Screenshot](./screenshot.png)
+
+
 ## Usage
 1. Install the dependencies using `yarn`. You will also need `youtube-dl`.
 2. First start the deepstream server: `node server/deepstream.js`.
