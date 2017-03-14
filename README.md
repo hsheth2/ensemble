@@ -1,8 +1,9 @@
-# Ensemble: play music together
+# Ensemble: listen to music together
 
-This project was created at the 2017 MIT Blueprint hackathon, and won first place. 
+_Have you ever been to a party where the speakers weren’t loud enough? Or worse, where there weren’t any speakers at all? Ensemble can help. Ensemble allows you and your friends to simultaneously play music on all of your devices (phones, computers, iPads, anything else) so that it sounds like an insanely loud distributed super-speaker. You can play any song, and it is synced perfectly!_
 
-Created by [Harshal Sheth](http://harshalsheth.com/), [Andrew Sun](https://andrewsun.com/), [Kartik Singh](https://github.com/kartik-s), and [Nihar Sheth](https://github.com/nsheth12).
+
+This project won first place at the 2017 MIT Blueprint hackathon. It was created by [Harshal Sheth](http://harshalsheth.com/), [Andrew Sun](https://andrewsun.com/), [Kartik Singh](https://github.com/kartik-s), and [Nihar Sheth](https://github.com/nsheth12).
 
 ![Screenshot](./screenshot.png)
 
