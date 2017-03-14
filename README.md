@@ -2,7 +2,7 @@
 
 This project was created at the 2017 MIT Blueprint hackathon, and won first place. 
 
-Created by Harshal Sheth, Andrew Sun, Kartik Singh, and Nihar Sheth.
+Created by [Harshal Sheth](http://harshalsheth.com/), [Andrew Sun](https://andrewsun.com/), [Kartik Singh](https://github.com/kartik-s), and [Nihar Sheth](https://github.com/nsheth12).
 
 ![Screenshot](./screenshot.png)
 
