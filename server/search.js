@@ -1,8 +1,8 @@
-var LastfmAPI = require('lastfmapi');
+let LastfmAPI = require('lastfmapi');
 
 require('dotenv').config()
 
-var lfm = new LastfmAPI({
+let lfm = new LastfmAPI({
     'api_key' : process.env.LAST_FM_API_KEY,
     'secret' : process.env.LAST_FM_SECRET
 });
